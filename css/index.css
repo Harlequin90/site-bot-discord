@@ -1,0 +1,21 @@
+body{
+	background-color: #836FFF;
+}
+.icon-bot{
+	display: block;
+	border-radius: 400px;
+	margin-left: 40%;
+}
+a{
+text-decoration: none;
+}
+.me-add{
+	background-color: #6959CD;
+	border-radius: 40px;
+	width: 400px;
+	height: 50px;
+}
+.menu ul li{
+	list-style: none;
+	    display: inline;
+}
