@@ -18,4 +18,5 @@ text-decoration: none;
 .menu ul li{
 	list-style: none;
 	    display: inline;
+	    padding-left: 8px;
 }
